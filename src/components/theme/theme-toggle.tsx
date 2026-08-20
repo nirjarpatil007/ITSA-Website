@@ -44,9 +44,7 @@ export function ThemeToggle({ className }: { className?: string }) {
       <motion.span
         aria-hidden
         layout
-        transition={
-          reduced ? { duration: 0 } : { type: "spring", stiffness: 480, damping: 34 }
-        }
+        transition={reduced ? { duration: 0 } : { type: "spring", stiffness: 480, damping: 34 }}
         className="absolute h-7 w-7 bg-foreground"
         style={{ left: dark ? "calc(100% - 32px)" : "4px" }}
       />
