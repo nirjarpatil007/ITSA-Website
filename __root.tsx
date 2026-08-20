@@ -1,0 +1,760 @@
+[
+  {
+    "id": 1,
+    "name": "Core Team",
+    "description": "Leading the ITSA and IEEE Student Branch with vision, collaboration, and excellence.",
+    "members": [
+      {
+        "id": 101,
+        "post": "President",
+        "name": "Bhagyseh Mali",
+        "year": "3rd Year",
+        "email": "bhagyesh.mali23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/bhagyesh-mali-7274a6292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://share.google/zg8wM3CALDUiFODeZ",
+        "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676914/IMG-20250822-WA0294_yd6rp1.jpg"
+      },
+      {
+        "id": 102,
+        "post": "Vice-President",
+        "name": "Sharwari Kathole",
+        "year": "3rd Year",
+        "email": "sharwari.kathole23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/sharwari-kathole-1570ab292/",
+        "github": "https://github.com/SharwariKathole11",
+        "photo": "https://drive.google.com/uc?export=view&id=1eejZ4Nqjl7-NeFtvajnYghZ1aa9rfMRV"
+      },
+      {
+        "id": 103,
+        "post": "IEEE Chair",
+        "name": "Saloni Khandelwal",
+        "year": "3rd Year",
+        "email": "saloni.khandelwal23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/saloni-khandelwal300306",
+        "github": "https://github.com/Saloni3003",
+        "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676970/Saloni_ryefx1.jpg"
+      },
+      {
+        "id": 104,
+        "post": "IEEE Co-Chair",
+        "name": "Ishan Toraskar",
+        "year": "3rd Year",
+        "email": "ishan.toraskar23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/ishan-toraskar/",
+        "github": "https://github.com/ishanrt119/",
+        "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676919/Ishan_Toraskar_o1fdi8.jpg"
+      },
+      {
+        "id": 105,
+        "post": "Secretary",
+        "name": "Sampada Sawant",
+        "year": "3rd Year",
+        "email": "sampada.sawant23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/sampada-sawant-468380363/",
+        "github": "https://github.com/Sampada-Sawant",
+        "photo": "https://drive.google.com/uc?export=view&id=1iih1-pVxbozFwjqWc7XxGIRCWXqpZ7RP"
+      },
+      {
+        "id": 106,
+        "post": "Secretary",
+        "name": "Piyusha Kate",
+        "year": "3rd Year",
+        "email": "piyusha.kate23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/piyusha-kate-4722342ba/",
+        "github": "https://github.com/pxsha23",
+        "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676976/PiyushaKate_ej2vde.jpg"
+      },
+      {
+        "id": 107,
+        "post": "Treasurer",
+        "name": "Aditya Solunke",
+        "year": "3rd Year",
+        "email": "aditya.solunke23@pccoepune.org",
+        "linkedin": "http://www.linkedin.com/in/adityasolunke",
+        "github": "https://github.com/Aditya-Solunke23",
+        "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676914/aditya_bwqnbm.jpg"
+      },
+      {
+        "id": 108,
+        "post": "Co-Treasurer",
+        "name": "Kanchan Tale",
+        "year": "3rd Year",
+        "email": "kanchan.tale23@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/kanchan-tale-4418ba32b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "github": "",
+        "photo": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Technical Team",
+    "description": "Strategic planning and organization of technical events and workshops.",
+    "lead": {
+      "id": 201,
+      "name": "Vedant Sarode",
+      "position": "Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676977/Vedant_Sarode_omvwyd.jpg",
+      "email": "vedant.sarode23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/vedant-sarode-4ab550292/",
+      "github": "https://github.com/vedant-s1345"
+    },
+    "coLead": {
+      "id": 202,
+      "name": "Shriya Marlegaonkar",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676963/Shriya_Marlegaonkar_aoinh9.jpg",
+      "email": "shriya.marlegaonkar22@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/shriya-marlegaonkar-587b462b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/shriyam943"
+    },
+    "members": [
+      {
+        "id": 203,
+        "name": "Uday Lingayat",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "uday.lingayat24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 204,
+        "name": "Vikrant Tavhare",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "vikrant.tavhare24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/vikranttavhare?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Webmasters",
+    "description": "Building and maintaining cutting-edge web solutions and digital experiences.",
+    "lead": {
+      "id": 301,
+      "name": "Vikas Shirsath",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676975/Vikas_Shirsath_ib2frq.jpg",
+      "email": "vkas.shirsath23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/vikas-shirsath-464453290/",
+      "github": "https://github.com/vikas-shirsath"
+    },
+    "coLead": {
+      "id": 302,
+      "name": "Pradnya Kulkarni",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/dtmrnm1lq/image/upload/v1760260880/Pradnya_Kulkarni_1_q6rncg.png",
+      "email": "pradnya.kulkarni23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/pradnya-kulkarni-8b92b42b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/PradnyaKulkarni2005"
+    },
+    "members": [
+      {
+        "id": 303,
+        "name": "Soham Awati",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "https://drive.google.com/uc?export=view&id=11pjCGh1TkLLqE-n_yxbUfDbAf2dHnkF5",
+        "email": "soham.awati24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/soham-awati-18235632b/",
+        "github": "https://github.com/SohamAwati"
+      },
+      {
+        "id": 304,
+        "name": "Aditya Deore",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "aditya.deore24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/aditya-deore-3a725a263",
+        "github": "https://github.com/AdityaxDeore"
+      },
+      {
+        "id": 305,
+        "name": "Madhura Hukkire",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "madhura.hukkire24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/madhura-hukkire-789778346/",
+        "github": "https://github.com/MadhuraHukkire"
+      },
+      {
+        "id": 306,
+        "name": "Prajjwal Singh",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "prajjwal.singh24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/prajjwal-balwant-singh-665b2830b/",
+        "github": "https://github.com/prajjwal-github"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Event Management & Logistics Team",
+    "description": "Ensuring seamless execution of events through meticulous planning and coordination.",
+    "lead": {
+      "id": 401,
+      "name": "Pratik Mulik",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676933/Pratik_Mulik_tvrbnx.jpg",
+      "email": "pratik.mulik23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/pratik-mulik-029489298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/pratikmulik07"
+    },
+    "coLead": {
+      "id": 402,
+      "name": "Vansh Raina",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676574/Vansh_Sanjay_Raina_jbwgyy.jpg",
+      "email": "vansh.raina23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/vansh-raina-36a0b3292",
+      "github": "https://github.com/vanshraina"
+    },
+    "members": [
+      {
+        "id": 403,
+        "name": "Mandar Patil",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "mandar.patil24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/mandar-patil-894326326/",
+        "github": "https://github.com/mxndar"
+      },
+      {
+        "id": 404,
+        "name": "Trijal Katti",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "trijal.katti24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 405,
+        "name": "Ayush Chandwadkar",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "ayush.chandwadkar24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/ayush-chandwadkar-00021332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/AyushChandwadkar"
+      },
+      {
+        "id": 406,
+        "name": "Saleha Shaikh",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "saleha.shaikh24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/saleha-shaikh-846a0432a",
+        "github": "https://github.com/Saleha2801"
+      },
+      {
+        "id": 407,
+        "name": "Kaumudi Gite",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "kaumudi.gite24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/kaumudi-gite-b3821232b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": ""
+      },
+      {
+        "id": 408,
+        "name": "Sarang Kolekar",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "sarang.kolekar24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/sarang-kolekar-389a0432a/",
+        "github": "https://github.com/Sarang-28"
+      },
+      {
+        "id": 409,
+        "name": "Om Polawar",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": null,
+        "email": "om.polawar24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Event Documentation Team",
+    "description": "Role of the Newsletter Team is to send invitations to the guests of the program conducted under ITSA/IEEE, attend all events, and make event reports of all programs conducted under the college and IEEE.",
+    "lead": {
+      "id": 501,
+      "name": "Saniya Patil",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676575/Saniya_Patil_bow7ng.jpg",
+      "email": "saniya.patil23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/saniya-patil-0214a5292",
+      "github": "https://github.com/sania-patil"
+    },
+    "coLead": {
+      "id": 502,
+      "name": "Vedant Kengalei",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676974/Vedant_Kengale_im1ggx.jpg",
+      "email": "vedant.kengale23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/vedant-kengale/",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 503,
+        "name": "Bhaktee Patil",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "bhaktee.patil24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/bhaktee-patil-715724387/",
+        "github": "https://github.com/bhaktee12"
+      },
+      {
+        "id": 504,
+        "name": "Viraj Pathare",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "viraj.pathare24@pccoepune.org",
+        "linkedin": "http://www.linkedin.com/in/viraj-pathare-0051971ba",
+        "github": "https://github.com/Viraj1849V"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Video Editing and Photography Team",
+    "description": "Role of the Video Editing and Photography Team involves creating videos for particular events, creating reels which are very in trend nowadays and showcasing photography skills during events.",
+    "lead": {
+      "id": 601,
+      "name": "Sarang Gaikwad",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "",
+      "email": "sarang.gaikwad23@pccoepune.org",
+      "linkedin": "",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 602,
+        "name": "Ayush Kate",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "ayush.kate24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/aayush-k-0b521332b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/aayushkate"
+      },
+      {
+        "id": 603,
+        "name": "Aniket Gawande",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "aniket.gawande24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/aniket-gawande-882a0332a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/aniket-gawande"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Design Team",
+    "description": "Role of the Design Team involves designing posters, props for particular events, which are very in trend nowadays.",
+    "lead": {
+      "id": 701,
+      "name": "Gauri Chavan",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676915/Gauri_Chavan_uoziga.jpg",
+      "email": "gauri.chavan23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/gauri-chavan-62680429b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/gauri13024"
+    },
+    "members": [
+      {
+        "id": 702,
+        "name": "Swastika Sinha",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "swastika.sinha24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/swastika-sinha-b39868306/",
+        "github": "https://github.com/Swastika8"
+      },
+      {
+        "id": 703,
+        "name": "Prathamesh Pawar",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "prathamesh.pawar24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 704,
+        "name": "Khushi Fulwani",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "khushi.fulwani24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/khushi-fulwani-249a95359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "github": "https://github.com/khushifulwani24-code"
+      },
+      {
+        "id": 705,
+        "name": "Pranav Shirode",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "pranav.shirode24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/pranav-shirode-6a510636a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKfLxyv8QQlyaxNvkNX1HKQ%3D%3D",
+        "github": "https://github.com/jack-of-the52"
+      },
+      {
+        "id": 706,
+        "name": "Nida Kamil",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "nida.kamil24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/nida-kamil-800a27281/",
+        "github": "https://github.com/NidaKamil14"
+      },
+      {
+        "id": 707,
+        "name": "Samiksha Mote",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "samiksha.mote24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/samiksha-mote-97a4a92b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/samiksha2644"
+      },
+      {
+        "id": 708,
+        "name": "Anannya Jadhav",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "anannya.jadhav24@pccoepune.org",
+        "linkedin": "http://www.linkedin.com/in/anannya-jadhav-30440b377",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Publicity Team",
+    "description": "The social media and publicity team job responsible  for creating buzz, spreading information, and engaging the audience before, during, and after the event. we handle tasks like making posters, writing captions, managing social media page of IEEE and ITSA , posting updates, replying to queries, and covering live moments so that the event reaches more people and gets maximum participation.",
+    "lead": {
+      "id": 801,
+      "name": "Shreya Birla",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676961/Shreya_birla_wnarh6.jpg  ",
+      "email": "shreya.birla23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/shreya-birla-4520b2292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/Shreyabirla-11"
+    },
+    "coLead": {
+      "id": 802,
+      "name": "Shruti Jadhav",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676569/Shruti_Jadhav_e6xar4.jpg",
+      "email": "shruti.jadhav23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/shruti-jadhav-1365322ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 803,
+        "name": "Heet Oswal",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "heet.oswal24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/heet-oswal/",
+        "github": "https://github.com/H29O"
+      },
+      {
+        "id": 804,
+        "name": "Vaidehi Behare",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "vaidehi.behare24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 805,
+        "name": "Siddhi More",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "siddhi.more24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/siddhi-more-648a1332a?",
+        "github": "https://github.com/siddhimore-hub"
+      },
+      {
+        "id": 806,
+        "name": "Badal Dadwani ",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "badal.dadwani24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/badaldadwani",
+        "github": "https://github.com/Badal023"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Higher Studies & CDPC",
+    "description": "To plan activities and conduct informative workshops for students, thereby guiding them about higher studies",
+    "lead": {
+      "id": 901,
+      "name": "Kshitija Ahire",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://drive.google.com/file/d/1O6U00wj5ffMIsISc5lwfc7CiNKH_FJFl/view?usp=sharing",
+      "email": "Kshitija.ahire23@pccoepune.org",
+      "linkedin": "http://linkedin.com/in/kshitija-ahire-84b722370",
+      "github": ""
+    },
+    "coLead": {
+      "id": 902,
+      "name": "Parth Jadhav",
+      "position": "Co-Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676924/Parth_Jadhav_iwykce.jpg",
+      "email": "Parth.jadhav23@pccoepune.org",
+      "linkedin": "",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 903,
+        "name": "Ojas Barhate",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "ojas.barhate24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/ojas-barhate-a63a0432a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/Ojassajo"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "ISR & NSS",
+    "description": "Leading different social projects which can help to achieve awareness related to use of emerging technologies in different institutes, being part of donation drives and coming up with new ideas to enable institutes with inadequate facilities.",
+    "lead": {
+      "id": 1001,
+      "name": "Parth Patil",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676991/Parth_Patil_f4dgse.jpg",
+      "email": "parth.patil231@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/parth-patil-51179a28a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 1002,
+        "name": "Soham Sapkal",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "soham.sapkal24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/soo-sapkal/",
+        "github": "https://github.com/soo-sapkal"
+      },
+      {
+        "id": 1003,
+        "name": "Samarth Gawade",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "samarth.gawade24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 1004,
+        "name": "Apurv Sagare",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "apurva.sagare24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/apurv-sagare-558a0732a/",
+        "github": "https://github.com/MR360-ai"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Art Circle",
+    "description": "Prime job is to plan the extra curricular activities and take care of the active involvement of department students, thereby motivating them to take part in the Art Circle at the department level as well as college level.",
+    "lead": {
+      "id": 1101,
+      "name": "Atharva Thakur",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676929/atharva_thakur_zzsxpm.jpg",
+      "email": "atharva.thakur23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/atharva-thakur-567550292/",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 1102,
+        "name": "Aastha Chaudhari",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "aastha.chaudhari24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/aastha-chaudhari-444629342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": "https://github.com/Aasthachaudhari01"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Sports",
+    "description": "To plan, organize, and oversee all sports-related activities and events for the IT department and making Teams for various sports event happening in college.and motivating students to join college team",
+    "lead": {
+      "id": 1201,
+      "name": "Om Shelke",
+      "position": "Department Lead",
+      "year": "3rd Year",
+      "photo": "https://res.cloudinary.com/devyriv6o/image/upload/v1759676937/Om_shelke_mmq1ts.jpg",
+      "email": "om.shelke23@pccoepune.org",
+      "linkedin": "https://www.linkedin.com/in/om-shelke-1514a7292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": ""
+    },
+    "members": [
+      {
+        "id": 1202,
+        "name": "Sanket Yamgar",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "sanket.yamgar24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 1203,
+        "name": "Shravani Patil",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "shravani.patil24@pccoepune.org",
+        "linkedin": "",
+        "github": ""
+      },
+      {
+        "id": 1204,
+        "name": "Atharva Deshmukh",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "atharva.deshmukh24@pccoepune.org",
+        "linkedin": "http://www.linkedin.com/in/atharva-deshmukh-37430731b",
+        "github": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Sponsorship and Budget Team",
+    "description": "The role of the Sponsorship and Budget Team is to manage all financial aspects of events, including budgeting, fund allocation, and expense tracking. ",
+    "members": [
+      {
+        "id": 1301,
+        "name": "Nishtha Parve",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "nishtha.parve24@pccoepune.org ",
+        "linkedin": "https://www.linkedin.com/in/nishtha-parve-0a9a0632a/",
+        "github": "https://github.com/Nishthaparve"
+      },
+      {
+        "id": 1302,
+        "name": "Kanak Kushwaha",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "Kanak.kushwaha24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/kanak-kushwaha-735b11331/",
+        "github": "https://github.com/kanakkushwaha"
+      },
+      {
+        "id": 1303,
+        "name": "Rehaan Shaikh",
+        "position": "Team Member",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "rehaan.shaikh24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/rehaan-shaikh-39b719314/",
+        "github": "https://github.com/rehaan2806"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "SY Interaction Coordinator",
+    "description": "To plan, organize, and oversee all sports-related activities and events for the IT department and making Teams for various sports event happening in college.and motivating students to join college team",
+    "lead": [
+      {
+        "id": 1401,
+        "name": "Adi Maitre",
+        "position": "Department Lead",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "adi.maitre24@pccoepune.org",
+        "linkedin": "https://github.com/IchigoSolos69",
+        "github": "https://www.linkedin.com/in/adimaitre"
+      },
+      {
+        "id": 1402,
+        "name": "Ishwari Jadhav",
+        "position": "Department Lead",
+        "year": "2nd Year",
+        "photo": "",
+        "email": "ishwari.jadhav24@pccoepune.org",
+        "linkedin": "https://www.linkedin.com/in/om-shelke-1514a7292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "github": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "BRUTEFORGE - Code Rush",
+    "overview": "The first round was a quiz-based challenge featuring binary puzzles, logical reasoning questions, and applied AI problems. Around sixteen teams participated, and their performance was judged on accuracy and completion time. After an intense one-hour session, only seven to eight teams qualified for the next round, proving their speed, presence of mind, and technical skill.",
+    "date": "17th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760284684/bruteforge3_d9zmfj.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760284684/bruteforge4_imqjiy.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760284685/bruteforge1_n1bij2.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760284685/bruteforge2_fx1arg.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "BRUTEFORGE - AI Innovation Forge",
+    "overview": "The second round was a problem-solving challenge that tested participants' creativity and technical skills. Teams were given a set of problems related to AI, machine learning, and data science, and they had to come up with innovative solutions. The round was judged on the originality and effectiveness of the solutions, as well as the team's ability to think critically and work under pressure.",
+    "date": "17th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285089/IMG_20250917_123800_eslxqc.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285089/IMG_20250917_122542_lnkhut.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285091/20250917_20802PMByGPSMapCamera_eqpddx.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Webcrafter",
+    "overview": "WebCrafter, held on 17th September 2025 during Abhidnya 2.0 at PCCOE, was a web-development competition organized by ITSA. The event consisted of two rounds — QuizCraft, a logical and AIML-based quiz with a Minecraft twist, followed by Auction & Build, where participants bid for resources and used them to develop a basic frontend project. The competition tested technical ability, creativity, strategy, and problem-solving under constraints. With energetic participation and smooth execution, WebCrafter successfully encouraged students to innovate and explore web development, concluding with prize distribution to the top three winners.",
+    "date": "17th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285629/IMG_4242_sqqb7t.heic",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285629/IMG_4263_lb6gtl.heic"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AI Workshop",
+    "overview": "The Department of IT, PCCoE, along with IEEE Student Branch and ITSA, organized an expert session on “Using AI in Day-to-Day Life” on 21st July 2025, delivered by Mr. Ajay Deshpande, an ACM Eminent Speaker with 25+ years of industry experience. He highlighted how AI impacts areas like healthcare, education, transport, and productivity, while also discussing real-world applications such as recommendation systems, voice assistants, and automation. Ethical concerns and responsible AI usage were also emphasized. The session was insightful, interactive, and encouraged students to explore AI-driven careers and innovations. Overall, it successfully enhanced awareness of AI’s growing role in everyday life.",
+    "date": "21st July, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285805/IMG-20250721-WA0037_xdw02t.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760285804/IMG-20250721-WA0013_jrh0dn.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Diya Painting Workshop",
+    "overview": "",
+    "date": "10th October, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286254/IMG_20251010_163917_ayt43a.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286254/IMG_20251010_160938_h3etpj.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286253/IMG_20251010_162139_a0ubyf.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286407/IMG_20251010_160729_hc8lzm.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Higher Studies Sessions & GATE Mock Exam",
+    "overview": "The main objective of the session was to guide students who are interested in pursuing higher education     abroad, especially in the United States, by providing them with detailed information about the GRE exam, preparation strategies, resources, and application process. Students gained a clearer understanding of the GRE examination structure and preparation strategies. Many expressed interest in starting their preparation and attending further workshops or coaching sessions. Feedback indicated that the session was informative, well-organized, and motivating.",
+    "date": "5th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286535/Gre_session_-1_vdcjte.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286535/Gate_exam_jz4kpg.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "IEEE Membership Drive",
+    "overview": "The IEEE Awareness & Membership Drive was held on 24th September at LRDC Hall, PCCOE, to introduce students to IEEE and the benefits of becoming a member. Speakers Mr. Rakshit Jain and Mr. Mandar Khurjekar highlighted how IEEE supports technical growth, research exposure, and industry connectivity. Presentations by Tanmay Mutha and Eesha Deshpande helped students understand various IEEE societies and how to get involved. Student leaders also shared their experiences, followed by an engaging Q&A session. The event concluded with high enthusiasm and successfully motivated students to explore IEEE’s global opportunities.",
+    "date": "24th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286668/20250924_35139PMByGPSMapCamera_tsrwqi.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286666/IMG_20250924_164541_obldfo.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760286761/IMG_20250924_153852_xk11zy.jpg"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Induction",
+    "overview": "The Induction Ceremony 2025 for the IT Department was held on 30th July 2025 at the Mechanical Seminar Hall, PCCoE. Guided by HoD Dr. Jayashri Katti along with coordinators Mrs. Tanuja Patankar and Mrs. Shraddha Tawade, the event welcomed new members of SY, ITSA, IEEE, and MLSC and appreciated outgoing leaders and achievers in front of 150 attendees. Highlights included the launch of Tech Pulse 2025, speeches by alumni chief guest Mr. Rahul Badgujar, and an engaging Q&A session focusing on learning, skill-building, and career growth. FY Toppers were felicitated, and newly appointed ITSA, IEEE, and MLSC committees were introduced and honored. The ceremony ended with an Oath of Responsibility for the new teams and a Vote of Thanks, marking a proud and motivational beginning for the academic year.",
+    "date": "30th July, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760293241/Screenshot_2025-10-12_234936_cl6day.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760293240/Screenshot_2025-10-12_235007_fys9jh.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760293240/Screenshot_2025-10-12_234951_y8ocf8.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760293239/Screenshot_2025-10-12_234927_pfacib.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tree Plantation",
+    "overview": "The Tree Plantation Drive to celebrate ICCUBEA and IMACE 2025 was held on 21st August 2025 at Durga Tekdi, Nigdi, organized by PCCOE in collaboration with NSS. Guided by Director Dr. Govind Kulkarni, ICCUBEA Chair Dr. Jayashree Katti, IMACE Chair Dr. Narendra Deore, and coordinated by NSS IT and ENTC department representatives, the event promoted environmental awareness and active participation in nature conservation. With the enthusiastic involvement of 25 students, faculty members, and volunteers, a total of 300 saplings were planted—one for each research paper selected for presentation—symbolizing a collective step toward a greener future. The initiative successfully reflected social responsibility, teamwork, and environmental stewardship, inspiring the youth to contribute to sustainability and long-term ecological well-being.",
+    "date": "21th August 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287452/IMG_3669_gvcze9.heic",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287453/IMG_3640_giiwe6.heic",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287456/IMG_3632_go6sjj.heic"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Teacher’s Day",
+    "overview": "On 8th September 2025, the IT Department celebrated Teacher’s Day with great warmth and appreciation, organized by ITSA, IEEE Student Chapter, MLSC, and GDGC. Students expressed gratitude by presenting greeting cards and gifts to faculty, with special felicitation of Dr. Jayashri Katti, Dr. Roshani Raut, and Dr. Rajesh Phursule for their guidance and contribution. The event included a formal appreciation ceremony followed by fun evening activities such as Chinese Whisper and Pick the Prop, creating a joyful and engaging atmosphere. The celebration strengthened student–teacher bonds, reflecting respect, gratitude, and togetherness across the department.",
+    "date": "8th September, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287641/IMG_20250908_171443_yxrq1z.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287639/IMG_20250908_160258_yexfb7.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287639/IMG_20250908_155928_qrs2cl.jpg"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "NSS School Activity",
+    "overview": "The NSS Unit of the IT Department conducted an Awareness Drive on 6th October 2025 at Z.P. School, Newale Wasti, aimed at inspiring young students through creative learning activities. A 7th standard Essay Writing Competition was held to encourage expression, critical thinking, and awareness on social topics, with students participating enthusiastically. Certificates and pens were awarded to winners—Shravani Umesh Gore (1st), Joya Mohsin Mundhe (2nd), and Sanjit Mithilesh Divakar (3rd)—along with additional gifts for attentive learners. Guided by Director Dr. Govind Kulkarni, HOD Prof. Jayashree Katti, and NSS Coordinator Prof. Rohit Tate, the drive was successful in promoting education, confidence, and social responsibility, receiving positive appreciation from the school. The event concluded with the message that awareness leads to meaningful change, fostering responsibility, teamwork, and compassion among volunteers and students alike.",
+    "date": "6th October 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287768/IMG-20251006-WA0114_qpdj8o.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287769/IMG-20251006-WA0101_ttnptp.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287769/IMG-20251006-WA0093_enyx3i.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760287770/IMG-20251006-WA0099_wcy8qe.jpg"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "NSS Cleanliness Activity",
+    "overview": "The NSS Unit of the IT Department conducted a Cleanliness Drive at Ganesh Talav during Ganesh Visarjan to manage the waste generated from offerings such as flowers, garlands, and coconuts. Volunteers cleaned the premises, guided devotees to dispose of materials responsibly, and spread awareness about maintaining cleanliness during festivals. Organized under the guidance of Director Dr. Govind Kulkarni, HOD Prof. Jayashree Katti, and NSS Coordinator Prof. Rohit Tate, the initiative helped keep the area safer and more hygienic while promoting social responsibility and teamwork. The drive received positive response from the public and reinforced the message that cleanliness is a shared duty for a healthier environment.",
+    "date": "6th September 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760289086/IMG-20250906-WA0020_qyw70l.jpg",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760289086/IMG-20250906-WA0010_xbrmqp.jpg"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "TechRoom and Inauguration",
+    "overview": "The IT Student Association (ITSA) and Microsoft Learn Student Chapter (MLSC) successfully launched *Techroom 2.0* on August 18, 2025, followed by a series of hands-on technical training sessions. The inauguration, graced by Dr. Shitalkumar Rawandale as Chief Guest and supported by HOD Dr. Jayashree Katti, marked the official opening of collaborative learning spaces in Rooms 5403 & 5404. Over the next three days, students attended sessions on IoT (by Kushalsingh Pawar & Vedant Sarode), Canva & Figma (by Bhagyesh Mali), and Object-Oriented Programming (by Vikas Sirsath & Pradnya Kulkarni). Participation numbers showed strong engagement—25 students for IoT, 48 for Canva & Figma, and 59 for OOP. The initiative effectively strengthened students’ practical skills in UI/UX design, programming, and hardware-based development, creating a collaborative learning culture and motivating participants to explore advanced technologies further.",
+    "date": "18th August, 2025",
+    "images": [
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288896/Screenshot_2025-10-12_223747_ypc6vk.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288895/Screenshot_2025-10-12_223727_ufbz5r.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288331/Screenshot_2025-10-12_222823_qyl5wg.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288430/Screenshot_2025-10-12_222905_ju2xyr.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288430/Screenshot_2025-10-12_222916_ylhhot.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288430/Screenshot_2025-10-12_222905_ju2xyr.png",
+      "https://res.cloudinary.com/devyriv6o/image/upload/v1760288430/Screenshot_2025-10-12_222916_ylhhot.png"
+    ]
+  }
+]
